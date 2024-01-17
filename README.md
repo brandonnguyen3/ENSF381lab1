@@ -1,0 +1,2 @@
+# ENSF381lab1
+Lab 1 for ENSF380
